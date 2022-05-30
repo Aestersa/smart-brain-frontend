@@ -11,7 +11,7 @@ import Signin from "./components/Signin/Signin";
 import Register from "./components/Register/Register";
 
 let particlesOptions = {
-  fpsLimit: 150,
+  fpsLimit: 120,
   interactivity: {
     events: {
       onClick: {
@@ -63,7 +63,7 @@ let particlesOptions = {
         enable: true,
         area: 800,
       },
-      value: 100,
+      value: 75,
     },
     opacity: {
       value: 0.5,
