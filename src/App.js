@@ -63,7 +63,7 @@ let particlesOptions = {
         enable: true,
         area: 800,
       },
-      value: 75,
+      value: 50,
     },
     opacity: {
       value: 0.5,
